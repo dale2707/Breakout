@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/ball.png</File>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/bat.png</File>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/boinggg.wav</File>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/break crate.wav</File>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/brick-bw.png</File>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/DST-AngryRobotIII.mp3</File>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/fail.wav</File>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/on the rocks.bmp</File>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/rainbow-lines.jpg</File>
+    <File>E:/div/Portfolio project 2 - Breakout/BrickBreaker/Content/start.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
